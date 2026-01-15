@@ -1,7 +1,6 @@
 
 
 
-print
 //print hello world
 #include<stdio.h>
 void main(){

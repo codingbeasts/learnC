@@ -5,7 +5,7 @@ void calc(){
   printf("Enter number which table you want to print \n");
   scanf("%d",&n);
 
-  for(int i=1;i<=n;i++){
+  for(int i=1;i<=10;i++){
     val = i * n;
     printf("%d * %d : %d\n",n,i,val);
   }
